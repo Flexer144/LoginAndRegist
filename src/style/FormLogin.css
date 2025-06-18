@@ -1,0 +1,7 @@
+.form-login_content{
+  display: flex;
+  justify-content: center;
+  width: 50%;
+
+  transition: all .5s;
+}
